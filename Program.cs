@@ -45,7 +45,6 @@ namespace MultiDimArrays
                         maxSum = sum;
                         bestRow = row;
                         bestCol = col;
-
                     }                    
                 }                
             }
